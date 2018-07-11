@@ -1,0 +1,6 @@
+'use strict';
+
+var routes = module.exports = require('next-routes')();
+
+routes.add('LoginForm', '/LoginForm').add('Counter', '/');
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyY1xccm91dGVzLmpzIl0sIm5hbWVzIjpbInJvdXRlcyIsIm1vZHVsZSIsImV4cG9ydHMiLCJyZXF1aXJlIiwiYWRkIl0sIm1hcHBpbmdzIjoiOztBQUFBLElBQU0sU0FBUyxPQUFPLEFBQVAsVUFBaUIsQUFBUSxBQUFSLEFBQWhDOztBQUVBLE9BQ0csQUFESCxJQUNPLEFBRFAsYUFDb0IsQUFEcEIsY0FFRyxBQUZILElBRU8sQUFGUCxXQUVrQixBQUZsQiIsImZpbGUiOiJyb3V0ZXMuanMiLCJzb3VyY2VSb290IjoiQzovRGV2bG9wbWVudC9wcm9qZWN0L3JlYWN0LXRlc3QtYXBwIn0=
